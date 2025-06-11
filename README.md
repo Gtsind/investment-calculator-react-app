@@ -5,7 +5,7 @@ Built with React.
 
 1. On _load_ the user is presented with 4 different input fields where they can provide values for Initial investment, Annual investment,
    Expected return and Duration of the investment.
-2. Those values are then being displayed inside a table under the input fields.
+2. Those values are then being processed and the outcome is displayed inside a table under the input fields.
 
 Note: A simple error message will be shown to the user if the value of the Duration input field is invalid (less than 1).
 
